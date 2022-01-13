@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2022/01/11 19:34:12.000.966,=C:\Users\Luan\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/01/11 19:45:58.000.460,C:\Users\Luan\Desktop\Projeto Fortes Tecnologia\Fontes\uPrincipal.dfm=C:\Users\Luan\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2022/01/11 19:45:58.000.460,C:\Users\Luan\Desktop\Projeto Fortes Tecnologia\Fontes\uPrincipal.pas=C:\Users\Luan\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/01/11 19:46:38.000.562,C:\Users\Luan\Desktop\Projeto Fortes Tecnologia\Projeto_Abastecimento.dproj=C:\Users\Luan\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2022/01/11 19:47:32.000.937,=C:\Users\Luan\Desktop\Projeto Fortes Tecnologia\Unit1.pas</Transaction>
+    <Transaction>2022/01/11 19:53:41.000.003,C:\Users\Luan\Desktop\Projeto Fortes Tecnologia\Fontes\uDM.dfm=C:\Users\Luan\Desktop\Projeto Fortes Tecnologia\Unit1.dfm</Transaction>
+    <Transaction>2022/01/11 19:53:41.000.003,C:\Users\Luan\Desktop\Projeto Fortes Tecnologia\Fontes\uDM.pas=C:\Users\Luan\Desktop\Projeto Fortes Tecnologia\Unit1.pas</Transaction>
+    <Transaction>2022/01/11 21:33:57.000.654,=C:\Users\Luan\Desktop\Projeto Fortes Tecnologia\Unit1.pas</Transaction>
+    <Transaction>2022/01/11 21:34:09.000.520,C:\Users\Luan\Desktop\Projeto Fortes Tecnologia\Fontes\uCadAbastecimento.pas=C:\Users\Luan\Desktop\Projeto Fortes Tecnologia\Unit1.pas</Transaction>
+    <Transaction>2022/01/11 21:34:09.000.520,C:\Users\Luan\Desktop\Projeto Fortes Tecnologia\Fontes\uCadAbastecimento.dfm=C:\Users\Luan\Desktop\Projeto Fortes Tecnologia\Unit1.dfm</Transaction>
+    <Transaction>2022/01/11 22:11:10.000.251,=C:\Users\Luan\Desktop\Projeto Fortes Tecnologia\Unit2.pas</Transaction>
+    <Transaction>2022/01/11 22:11:36.000.408,=C:\Users\Luan\Desktop\Projeto Fortes Tecnologia\Unit1.pas</Transaction>
+    <Transaction>2022/01/11 22:12:00.000.742,C:\Users\Luan\Desktop\Projeto Fortes Tecnologia\Fontes\classe.Abastecimento.pas=C:\Users\Luan\Desktop\Projeto Fortes Tecnologia\Unit1.pas</Transaction>
+    <Transaction>2022/01/12 12:07:21.000.338,=C:\Users\Luan\Desktop\Projeto Fortes Tecnologia\Unit1.pas</Transaction>
+    <Transaction>2022/01/12 12:08:31.000.723,C:\Users\Luan\Desktop\Projeto Fortes Tecnologia\Fontes\uRelatorio.dfm=C:\Users\Luan\Desktop\Projeto Fortes Tecnologia\Unit1.dfm</Transaction>
+    <Transaction>2022/01/12 12:08:31.000.723,C:\Users\Luan\Desktop\Projeto Fortes Tecnologia\Fontes\uRelatorio.pas=C:\Users\Luan\Desktop\Projeto Fortes Tecnologia\Unit1.pas</Transaction>
+    <Transaction>2022/01/12 12:08:53.000.218,=C:\Users\Luan\Desktop\Projeto Fortes Tecnologia\Unit2.pas</Transaction>
+    <Transaction>2022/01/12 12:09:04.000.782,C:\Users\Luan\Desktop\Projeto Fortes Tecnologia\Fontes\rRelatorio.dfm=C:\Users\Luan\Desktop\Projeto Fortes Tecnologia\Unit2.dfm</Transaction>
+    <Transaction>2022/01/12 12:09:04.000.782,C:\Users\Luan\Desktop\Projeto Fortes Tecnologia\Fontes\rRelatorio.pas=C:\Users\Luan\Desktop\Projeto Fortes Tecnologia\Unit2.pas</Transaction>
+  </Transactions>
+</BorlandProject>
